@@ -14,7 +14,7 @@ from feishu import add_record, get_access_token
 
 os.environ['CURL_CA_BUNDLE'] = ''
 
-db = Database(host='123.60.85.50', port=3356, user='root', password='Asdqwe123!', db='esopAI')
+db = Database(host='172.30.73.219', port=3306, user='esop', password='25f86d76979f54c33abbea1b5e309fbe', db='esop')
 
 USER_ID = "user_id"
 LAST_TIME = "last_time"
