@@ -9,7 +9,7 @@ os.environ['CURL_CA_BUNDLE'] = ''
 
 url = 'https://api.coze.cn/v3/chat'
 headers = {
-    "Authorization": "Bearer pat_1mvxrSofbymljVZ6TkVjDyjv0C1V8QQhlLQRJLrJbCHWiwBuvgOau7DHDMpUmXe2",
+    "Authorization": "Bearer pat_gbdmxAxw2Asbp3BWpNyo4jZpYivBnCLz3BpIrM4iMbLdj7TY2fUD2YelxMuDqzsN",
     "Content-Type": "application/json",
     # "Accept": "*/*",
     # "Host": "api.coze.com",
